@@ -63,5 +63,3 @@ con.connect(function (err) {
     displayInv();
     chooseItem();
 });
-
-
